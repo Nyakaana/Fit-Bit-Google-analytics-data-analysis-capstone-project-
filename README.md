@@ -59,7 +59,7 @@ The links to Python and SQL code used for the analysis are posted below.
 
 -Users are most active between 9am and 8pm, taking the most steps during this time. The steps taken peak at noon, and between 6-7pm.
 ![Average steps by hour](images/Average%20steps%20taken%20per%20hour.png)
-**Hourly steps average showing 9am to 8pm as the most active time range.**
+**Hourly steps average showing 9am to 8pm as the most active time range**
 
 -Users sleep less than the recommended time(atleast 7 hours of sleep), except on Sunday and Wednesday where they hit more than 7 hours of sleep. They spend an average of 40 minutes in bed without sleeping.
 
