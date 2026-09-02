@@ -15,8 +15,7 @@ The analysis will answer the following questions:
 -How could these trends help influence Bellabeat marketing strategy? 
 
 ## CODE 
-Python code 
-Bellabeat_case_study_3.ipynb
+[Python Analysis code](Bellabeat_case_study_3.ipynb)
 
 ## SKILLS 
 -Data cleaning and preprocessing
