@@ -17,9 +17,9 @@ The analysis will answer the following questions:
 ## CODE 
 The links to Python and SQL code used for the analysis are posted below.
 
--[Python analysis code.ipynb](Bellabeat_case_study_3.ipynb)
+- [Python analysis code.ipynb](Bellabeat_case_study_3.ipynb)
 
-[PostgreSQL analysis code.sql](Bellabeat Data Analysis.sql)
+- [PostgreSQL analysis code.sql](Bellabeat%20Data%20Analysis.sql)
 
 ## SKILLS 
 -Data cleaning and preprocessing
