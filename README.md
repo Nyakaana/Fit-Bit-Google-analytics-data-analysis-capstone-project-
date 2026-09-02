@@ -2,7 +2,8 @@
 
 ## CODE 
 
-##DESCRIPTION 
+## DESCRIPTION 
+
 This project Analyzes smart device data to gain insight into how consumers are using their smart devices. The insights gained will help guide the marketing strategy for Bellabeat. 
 
 Both SQL and python  were used to extract and aggregate raw data, while Python and tableau were used for deeper analysis and visualization.
@@ -15,7 +16,7 @@ The analysis will answer the following questions:
 
 -How could these trends help influence Bellabeat marketing strategy? 
 
-# SKILLS 
+## SKILLS 
 -Data cleaning and preprocessing
 
 -Exploratory data analysis (EDA)
@@ -26,7 +27,7 @@ The analysis will answer the following questions:
 
 -Statistical analysis
 
-# TECHNOLOGY 
+## TECHNOLOGY 
 
 -Python (pandas, matplotlib, and seaborn)
 
@@ -38,9 +39,9 @@ The analysis will answer the following questions:
 
 -Tableau 
 
-## RESULTS AND RECOMMENDATIONS
+# RESULTS AND RECOMMENDATIONS
 
-# key insights 
+## key insights 
 -On average users wear the tracker for 20 hours a day. Meaning the tracker is active and able to collect user data for most of the day.
 
 -The users wear the tracker consistently. There is no preference on the day of the week when the users wear the tracker.
@@ -55,7 +56,7 @@ The analysis will answer the following questions:
 
 -There is a positive relationship between steps taken and calories expended.The more steps taken, the more calories expended.
 
-# Recommendations 
+## Recommendations 
 
 -The CEO should commission another analysis using the data collected from Bellabeat users that is more representative of Bellabeat clients. The fitbit data is unreliable, lacks demographic information, and only follows 30 users over a short time period. For the best insights, another analysis using data from a longer timeframe and more Bellabeat product users should be conducted.
 
