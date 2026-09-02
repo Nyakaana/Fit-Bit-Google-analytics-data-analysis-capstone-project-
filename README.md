@@ -42,7 +42,7 @@ The analysis will answer the following questions:
 
 ## RESULTS AND RECOMMENDATIONS
 
-### key insights 
+### Key insights 
 -On average users wear the tracker for 20 hours a day. Meaning the tracker is active and able to collect user data for most of the day.
 
 -The users wear the tracker consistently. There is no preference on the day of the week when the users wear the tracker.
