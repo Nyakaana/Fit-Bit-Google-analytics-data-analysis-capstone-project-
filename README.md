@@ -1,7 +1,5 @@
 # FITBIT DATA ANALYSIS 
 
-## CODE 
-
 ## DESCRIPTION 
 
 This project Analyzes smart device data to gain insight into how consumers are using their smart devices. The insights gained will help guide the marketing strategy for Bellabeat. 
@@ -15,6 +13,8 @@ The analysis will answer the following questions:
 -How could these trends apply to Bellabeat customers? 
 
 -How could these trends help influence Bellabeat marketing strategy? 
+
+## CODE 
 
 ## SKILLS 
 -Data cleaning and preprocessing
