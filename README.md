@@ -19,7 +19,7 @@ The links to Python and SQL code used for the analysis are posted below.
 
 -[Python analysis code.ipynb](Bellabeat_case_study_3.ipynb)
 
--[PostgreSQL analysis code.sql](Bellabeat Data Analysis.sql)
+- [PostgreSQL analysis code.sql](Bellabeat Data Analysis.sql)
 
 ## SKILLS 
 -Data cleaning and preprocessing
