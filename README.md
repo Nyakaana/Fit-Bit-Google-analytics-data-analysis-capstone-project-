@@ -54,9 +54,12 @@ The links to Python and SQL code used for the analysis are posted below.
 -Majority (37%)of the users live a sedentary lifestyle, taking less than 5000 average steps a day. Only 6% of users are highly active, taking more than 12500 steps a day.
 
 -On average, users make 7000 steps a day, except on Sundays.(This average daily steps could be skewed by those taking more steps).
+![Average steps by day of the week](images/Average%20daily%20steps.png)
+Average steps by day of the week showing users take less steps on sunday
 
 -Users are most active between 9am and 8pm, taking the most steps during this time. The steps taken peak at noon, and between 6-7pm.
-![Average steps by hour](images/Average%20steps%20taken%20per%20hour.png)*Hourly steps average showing 9am to 8pm as the most active time range.
+![Average steps by hour](images/Average%20steps%20taken%20per%20hour.png)
+Hourly steps average showing 9am to 8pm as the most active time range.
 
 -Users sleep less than the recommended time(atleast 7 hours of sleep), except on Sunday and Wednesday where they hit more than 7 hours of sleep. They spend an average of 40 minutes in bed without sleeping.
 
